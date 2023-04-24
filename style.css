@@ -98,7 +98,7 @@ input{
 	
 	width: 315px;
 	height: 100px;
-	color:greenyellow;
+	color:black;
 	
 
 }
@@ -107,7 +107,7 @@ input{
 
 .display {
 
-	background-color:  rgb(77, 75, 75);
+	background-color:  rgb(0, 0, 0);
 	border: 2px solid yellowgreen;
 	border-radius: 5rem;
 	height: 60px;
